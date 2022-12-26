@@ -1,0 +1,34 @@
+category	POS	POSlabel	German	description	examples	importance
+noun	NN	noun, common, singular or mass	Nomen im Singular		tree, person, snow, intelligence	1
+noun	NNP	noun, proper, singular	Eigenname	z.B. bestimmte Person oder Organisation, bestimmter Ort, großgeschrieben im Englischen	Oceanside, Escobar, Kreisler	1
+noun	NNS	noun, common, plural	Nomen im Plural		trees, museums, stores, children	1
+personal pronoun	PRP	pronoun, personal	Personalpronomen		I, us, themselves, herself, it, him	1
+verb	VB	verb, base form	Verb als Grundform		ask, begin, believe, build, feel	2
+verb	VBD	verb, past tense	Verb im Imperfekt		asked, began, bought, registered	2
+verb	VBG	Verb, present participle or gerund	Verb mit -ing Endung		telegraphing, stirring, dancing, erasing	2
+verb	VBN	verb, past participle	Verb im Past Participle	Verwendung als Perfekt- oder Passivform	"used: „have used“, „was used“
+experimented"	2
+verb	VBP	verb, present tense, not 3rd person singular	Verb im Präsens, erste oder zweite Person singular, erste, zweite oder dritte Person plural		make, feel, crush, live	2
+verb	VBZ	verb, present tense, 3rd person singular	Verb im Präsens, dritte Person singular		makes, feels, mixes, displeases	2
+verb	MD	modal auxiliary	Modalverben (Englisch)	Wünsche, Möglichkeiten oder Zwänge	can, cannot, must,  couldn’t, may, should, will, would	2
+adjective	JJ	adjective or numeral, ordinal	Adjektiv		third, ill-mannered, regrettable, mulltilingual	3
+adjective	JJR	adjective, comparative	Vergleichendes Adjektiv		braver, broader, cleaner, closer, better	3
+adjective	JJS	adjective, superlative	Adjektiv als Superlativ		best, worst, deadliest, cutest	3
+adverb	RB	adverb	Adverb		occasionally, well, hard, mathematically	3
+adverb	RBR	adverb, comparitive	Vergleichendes Adverb		less-perfectly, better, louder	3
+adverb	RBS	adverb, superlative	Adverb als Superlativ		best	3
+possessive pronoun	PRP$	pronoun, posessive	Possessivpronomen	besitzanzeigendes Fürwort	her, his, ours, your, their	4
+determiner or pre-determiner	DT	determiner	Determinierer, Determinator	"Kategorie von Wörtern, die ein Nomen hinsichtlich spezifischer semantischer, syntaktischer und morphologischer Aspekte näher bestimmen: Artikelwörter (Artikel; Deutsch der, die, das, dies usw.)"	the, all, an, another, any, both, this, some	4
+determiner or pre-determiner	PDT	pre-determiner		Steht vor dem Determinierer und gibt mehr Informationen über das dahinterstehende Nomen	all: „all the children“, once: „once a day“	4
+connector or preposition	CC	conjunction, coordinating	Konjunktion	Wort, das Haupt- und Gliedsatz oder Satzglieder verbindet	and, or, but, therefore, versus	4
+connector or preposition	IN	preposition or conjunction, subordinating	unterordnende Konjunktion oder Präposition		among, whether, despite, if, within	4
+connector or preposition	TO	„to“ as a preposition or infinite marker			to	4
+number or list item	CD	numeral, cardinal	Zahl		mid-1890s, ten million, 0.5	
+number or list item	LS	list item maker	Listen Indikator		A, first, 1.2	
+other	EX	existential there		Im Englischen: sagt, dass etwas existiert (im Unters hied zum orts-definierenden there)	there: „There’s a good reason“	
+other	POS	genitive marker	Genitivindikator		s	
+other	RP	Particle			aboard, about, across, along, behind, later	
+other	UH	interjection			goodbye, gosh, wow, oops, amen	
+other	WDT	WH-determiner			that, what, whatever, which, whichever	
+other	WP	WH-pronoun			which, who, whoever, that, whatever	
+other	WRB	WH-adverb			how, however, whence, whenever	
